@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou o William Baima
 
-<!--
-**Kishousan/kishousan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend com foco em **Python** e **Node.js**, apaixonado
+por construir APIs robustas, sistemas escaláveis e soluções que resolvem
+problemas reais.
 
-Here are some ideas to get you started:
+📍 Manaus, AM · Brasil  |  💼 Aberto a oportunidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias & ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [API Auth JWT](#) | API REST com autenticação JWT e controle de roles | Python · FastAPI · PostgreSQL |
+| [Sistema de Pedidos](#) | Backend com filas assíncronas e notificações | Node.js · Express · Redis |
+
+> Substitua os `#` pelos links reais dos seus repositórios!
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios!
