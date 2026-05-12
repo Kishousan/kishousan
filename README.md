@@ -26,10 +26,8 @@ problemas reais.
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [API Auth JWT](#) | API REST com autenticação JWT e controle de roles | Python · FastAPI · PostgreSQL |
-| [Sistema de Pedidos](#) | Backend com filas assíncronas e notificações | Node.js · Express · Redis |
 
-> Substitua os `#` pelos links reais dos seus repositórios!
+
 
 ---
 
